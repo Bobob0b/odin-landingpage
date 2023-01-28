@@ -87,7 +87,6 @@ button {
     display: flex;
     flex-flow: column;
     align-items: center;
-    justify-content: center;
     gap: 20px;
     padding: 50px 200px 100px;
 }
@@ -101,16 +100,12 @@ button {
 
 .illu {
     display:flex;
-    justify-content: center;
-    align-items: center;
     gap: 30px;
 }
 
 .illustration {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
+
     flex-wrap: wrap;
     gap: 5px;
     max-width: 150px;
@@ -155,7 +150,6 @@ button {
 
 .callToAction {
     display: flex;
-    align-items: center;
     justify-content: center;
     padding: 50px;
 }
@@ -184,6 +178,5 @@ footer {
     color: #f9faf8;
     display: flex;
     justify-content: center;
-    align-items: center;
     padding: 30px;
 }
