@@ -38,7 +38,7 @@ ul {
 .hero{
     display: flex;
     gap: 20px;
-    
+
 }
 
 .hero-left {
@@ -142,4 +142,8 @@ button {
 footer {
     background: #1F2937;
     color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
 }
